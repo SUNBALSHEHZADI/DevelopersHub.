@@ -48,7 +48,7 @@ A summarization model capable of generating concise summaries from long texts.
 
 **Objective**: Build a model to predict the likelihood of diseases such as heart disease based on medical data.
 
-**Dataset**: [PIMA Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) or [Heart Disease Dataset](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)
+**Dataset**:  [Heart Disease Dataset](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)
 
 ### Steps:
 - Conducted **Exploratory Data Analysis (EDA)** to understand the relationships between features and outcomes.
